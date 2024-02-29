@@ -17,6 +17,8 @@ Due to these differences, the components of the regression equation will remain 
  
 
 The calculations for the coefficient of determination (R2) also change.
+![image](https://github.com/Xnrrrrrr/7.0-Multiple-Regression/assets/133546385/0248087f-7c67-4e36-886f-aeaf86abff8d)
+
 
 
 In addition to changes in how several of our estimates are calculated, having more than one predictor in our model means we’ll need to revise how we run the regression model, interpret the results, and check our assumptions. Each of these will be discussed in turn.
@@ -43,6 +45,9 @@ x5 - acceleration performance
 
 How to Run and Interpret a Multiple Regression Model in R
 Similar to Simple Regression, we will use the lm() function to run our multiple regression model. However, in order to add in additional predictors we’ll use the ‘+’ symbol followed by the name of the next predictor.
+
+![image](https://github.com/Xnrrrrrr/7.0-Multiple-Regression/assets/133546385/3fba9e85-c56c-44e8-afd2-41f3f557344d)
+
 
 newModel = lm(outcome ~ predictor 1 + predictor 2 + predictor n, data = dataFrame, na.action = an action)
  
@@ -76,6 +81,8 @@ In this class we will use the best-subsets approach. This approach uses brute-fo
 
 Before we run the best-subsets procedure, we will need to install the leaps and car packages in R. We can do this with the following syntax:
 
+![image](https://github.com/Xnrrrrrr/7.0-Multiple-Regression/assets/133546385/c5041e56-366d-4a0c-a6b1-8e2706ed75a6)
+
 install.packages("leaps")
 library(leaps)
 
@@ -89,12 +96,17 @@ The first command calls the regsubsets() function and stores it in an object tha
 
 The arguments in the function include:
 
+![image](https://github.com/Xnrrrrrr/7.0-Multiple-Regression/assets/133546385/f81a4128-f1d2-4f4e-90a8-06f7b86cbb22)
+
 The regression model: y ~ x1 + x2 + x3 + x4 + x5
 The data set: data = mtcarsnvn
 The number of subsets “nbest” that we’ve requested for each subset size, in this case nbest = 1
  
 
 This is executed in the following syntax:
+
+![image](https://github.com/Xnrrrrrr/7.0-Multiple-Regression/assets/133546385/bd55a5f9-8d7e-4fb1-9867-aa3e5673f994)
+
 
 bestsubsets = regsubsets(y ~ x1 + x2 + x3 + x4 + x5, data = mtcarsnvn, nbest = 1)
  
@@ -106,6 +118,9 @@ The statistic that will be used to pick the best models: “statistic = “adjr2
  
 
 This is executed in the following syntax:
+
+![image](https://github.com/Xnrrrrrr/7.0-Multiple-Regression/assets/133546385/2d449251-5625-4f0c-b55d-86ce54cff868)
+
 
 subsets(bestsubsets, statistic = "adjr2")
  
@@ -171,6 +186,9 @@ Interferes with the ability to assess the importance of each predictor
 We can evaluate multicollinearity using two approaches:
 
 Run a correlation matrix and examine the correlations among your predictors. Values that are highly correlated (absolute values of .8 or higher) could be a problem.
+
+![image](https://github.com/Xnrrrrrr/7.0-Multiple-Regression/assets/133546385/8d6b15ca-2cc1-402d-bba6-2ca1f68dcfed)
+
 #Generates a correlation matrix on all the variables in your data set
 cor(data)
 
