@@ -1,0 +1,201 @@
+response_time,num_attack,num_device,cyber_literate_users,num_attack_v2
+71,10,4,5,Less than 150
+508,30,9,8,Less than 150
+20,40,13,3,Less than 150
+103,40,25,3,Less than 150
+430,40,17,5,Less than 150
+255,50,16,3,Less than 150
+27,60,19,5,Less than 150
+30,60,28,10,Less than 150
+203,60,13,3,Less than 150
+337,60,20,7,Less than 150
+635,60,17,5,Less than 150
+57,70,37,4,Less than 150
+179,70,19,10,Less than 150
+257,70,1,7,Less than 150
+472,70,20,10,Less than 150
+611,70,20,9,Less than 150
+725,70,8,6,Less than 150
+233,80,2,4,Less than 150
+234,80,20,4,Less than 150
+378,80,19,3,Less than 150
+11,90,39,6,Less than 150
+103,90,5,2,Less than 150
+235,90,21,4,Less than 150
+237,90,19,7,Less than 150
+22,100,1,5,Less than 150
+26,100,23,5,Less than 150
+207,100,14,4,Less than 150
+265,100,25,6,Less than 150
+276,100,18,5,Less than 150
+394,100,27,5,Less than 150
+514,100,2,4,Less than 150
+709,100,16,5,Less than 150
+15,110,22,6,Less than 150
+193,110,9,6,Less than 150
+243,110,10,3,Less than 150
+346,110,22,3,Less than 150
+786,110,20,2,Less than 150
+9,120,53,3,Less than 150
+57,120,33,5,Less than 150
+76,120,34,5,Less than 150
+136,120,22,4,Less than 150
+180,120,2,3,Less than 150
+457,120,18,2,Less than 150
+508,120,0,5,Less than 150
+526,120,14,4,Less than 150
+526,120,26,5,Less than 150
+986,120,28,4,Less than 150
+237,130,25,3,Less than 150
+344,130,23,4,Less than 150
+760,130,6,4,Less than 150
+57,140,27,4,Less than 150
+69,140,28,4,Less than 150
+100,140,21,6,Less than 150
+103,140,22,4,Less than 150
+201,140,11,5,Less than 150
+224,140,26,3,Less than 150
+232,140,16,4,Less than 150
+269,140,1,4,Less than 150
+366,140,23,5,Less than 150
+917,140,10,4,Less than 150
+1078,140,13,5,Less than 150
+36,150,30,3,Between 150 and 250
+68,150,15,4,Between 150 and 250
+69,150,35,3,Between 150 and 250
+216,150,19,3,Between 150 and 250
+216,150,35,6,Between 150 and 250
+238,150,27,3,Between 150 and 250
+251,150,24,3,Between 150 and 250
+503,150,21,4,Between 150 and 250
+564,150,32,4,Between 150 and 250
+612,150,21,5,Between 150 and 250
+625,150,20,6,Between 150 and 250
+786,150,8,5,Between 150 and 250
+46,160,24,4,Between 150 and 250
+51,160,19,4,Between 150 and 250
+103,160,26,6,Between 150 and 250
+153,160,11,5,Between 150 and 250
+263,160,18,4,Between 150 and 250
+569,170,19,6,Between 150 and 250
+731,170,22,3,Between 150 and 250
+857,170,10,5,Between 150 and 250
+923,170,15,4,Between 150 and 250
+45,180,36,5,Between 150 and 250
+126,180,49,4,Between 150 and 250
+218,180,42,5,Between 150 and 250
+385,180,42,4,Between 150 and 250
+475,180,22,6,Between 150 and 250
+601,180,21,5,Between 150 and 250
+827,180,36,5,Between 150 and 250
+982,180,26,5,Between 150 and 250
+46,190,39,5,Between 150 and 250
+98,190,38,5,Between 150 and 250
+205,190,26,4,Between 150 and 250
+406,190,12,7,Between 150 and 250
+670,190,34,3,Between 150 and 250
+911,190,26,4,Between 150 and 250
+1035,190,12,3,Between 150 and 250
+1542,190,33,3,Between 150 and 250
+125,200,28,5,Between 150 and 250
+283,200,30,3,Between 150 and 250
+392,200,22,2,Between 150 and 250
+514,200,21,4,Between 150 and 250
+644,200,47,5,Between 150 and 250
+760,200,21,4,Between 150 and 250
+1051,200,20,4,Between 150 and 250
+197,210,36,3,Between 150 and 250
+537,210,22,2,Between 150 and 250
+562,210,35,4,Between 150 and 250
+643,210,32,4,Between 150 and 250
+656,210,34,4,Between 150 and 250
+746,210,34,5,Between 150 and 250
+792,210,33,4,Between 150 and 250
+800,210,28,4,Between 150 and 250
+802,210,32,3,Between 150 and 250
+893,210,26,5,Between 150 and 250
+986,210,17,5,Between 150 and 250
+1080,210,18,4,Between 150 and 250
+1112,210,28,4,Between 150 and 250
+27,220,47,3,Between 150 and 250
+509,220,32,6,Between 150 and 250
+575,220,44,6,Between 150 and 250
+716,220,28,4,Between 150 and 250
+977,220,31,5,Between 150 and 250
+1508,220,37,4,Between 150 and 250
+43,230,45,4,Between 150 and 250
+103,230,37,5,Between 150 and 250
+104,230,29,3,Between 150 and 250
+170,230,28,4,Between 150 and 250
+215,230,36,5,Between 150 and 250
+427,230,37,3,Between 150 and 250
+607,230,29,3,Between 150 and 250
+614,230,49,4,Between 150 and 250
+767,230,33,3,Between 150 and 250
+777,230,37,3,Between 150 and 250
+912,230,57,5,Between 150 and 250
+922,230,34,4,Between 150 and 250
+957,230,28,5,Between 150 and 250
+1002,230,32,4,Between 150 and 250
+1177,230,23,5,Between 150 and 250
+1381,230,33,3,Between 150 and 250
+1500,230,11,3,Between 150 and 250
+407,240,24,4,Between 150 and 250
+567,240,32,3,Between 150 and 250
+889,240,14,5,Between 150 and 250
+964,240,34,4,Between 150 and 250
+1054,240,25,4,Between 150 and 250
+1072,240,37,3,Between 150 and 250
+1568,240,29,5,Between 150 and 250
+227,250,45,4,Between 150 and 250
+296,250,55,2,Between 150 and 250
+313,250,40,3,Between 150 and 250
+701,250,35,2,Between 150 and 250
+784,250,36,5,Between 150 and 250
+801,250,34,5,Between 150 and 250
+1000,250,5,4,Between 150 and 250
+1133,250,55,4,Between 150 and 250
+1323,250,35,6,Between 150 and 250
+1547,250,28,3,Between 150 and 250
+501,260,36,3,More than 250
+584,260,30,4,More than 250
+804,260,17,3,More than 250
+264,270,43,4,More than 250
+1096,270,31,3,More than 250
+1188,270,33,4,More than 250
+757,280,30,3,More than 250
+843,280,32,4,More than 250
+884,280,26,4,More than 250
+1327,280,27,3,More than 250
+1453,280,19,4,More than 250
+251,290,53,2,More than 250
+305,290,54,5,More than 250
+451,290,46,2,More than 250
+901,290,38,3,More than 250
+1171,290,39,4,More than 250
+1351,290,37,2,More than 250
+1424,290,26,4,More than 250
+1721,290,32,4,More than 250
+174,300,40,4,More than 250
+579,300,30,4,More than 250
+1135,300,39,3,More than 250
+1500,300,24,4,More than 250
+1600,300,24,2,More than 250
+1838,300,40,6,More than 250
+50,310,63,4,More than 250
+836,310,38,4,More than 250
+833,320,44,4,More than 250
+1163,320,36,5,More than 250
+1790,320,30,2,More than 250
+2272,320,31,6,More than 250
+10,330,43,1,More than 250
+1545,330,42,4,More than 250
+690,340,46,4,More than 250
+1500,340,38,3,More than 250
+2000,340,31,4,More than 250
+146,360,42,3,More than 250
+679,360,53,4,More than 250
+1126,360,38,4,More than 250
+1294,360,38,4,More than 250
+1446,360,35,4,More than 250
+1985,360,35,6,More than 250
